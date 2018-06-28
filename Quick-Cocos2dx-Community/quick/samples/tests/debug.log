@@ -1,0 +1,1870 @@
+
+{
+	gl.supports_vertex_array_object: true
+	cocos2d.x.version: Quick-Cocos2dx-Community 3.6.4 Release
+	gl.vendor: NVIDIA Corporation
+	gl.supports_PVRTC: false
+	gl.renderer: NVIDIA GeForce GT 650M OpenGL Engine
+	cocos2d.x.compiled_with_profiler: false
+	gl.max_texture_size: 16384
+	gl.supports_ETC1: false
+	gl.supports_BGRA8888: false
+	cocos2d.x.build_type: DEBUG
+	gl.supports_discard_framebuffer: false
+	gl.supports_NPOT: true
+	gl.supports_S3TC: true
+	gl.version: 2.1 NVIDIA-10.14.20 355.10.05.15f03
+	gl.supports_ATITC: false
+	gl.max_texture_units: 16
+	cocos2d.x.compiled_with_gl_state_cache: true
+}
+
+
+Quick-Cocos2dx-Community C++ support ready.
+------------------------------------------------
+LOAD LUA FILE: /Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/main.lua
+------------------------------------------------
+[LUA-print] ===========================================================
+[LUA-print]               LOAD QUICK FRAMEWORK
+[LUA-print] ===========================================================
+[LUA-print] [INFO] 
+[LUA-print] [INFO] # DEBUG                        = 1
+[LUA-print] [INFO] #
+[LUA-print] [INFO] # device.platform              = mac
+[LUA-print] [INFO] # device.model                 = unknown
+[LUA-print] [INFO] # device.language              = en
+[LUA-print] [INFO] # device.writablePath          = /Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/
+[LUA-print] [INFO] # device.directorySeparator    = /
+[LUA-print] [INFO] # device.pathSeparator         = :
+[LUA-print] [INFO] #
+libpng warning: iCCP: known incorrect sRGB profile
+[LUA-print] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+[LUA-print] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+[LUA-print] [INFO] # CONFIG_SCREEN_HEIGHT         = 960.00
+[LUA-print] [INFO] # display.widthInPixels        = 520.00
+[LUA-print] [INFO] # display.heightInPixels       = 780.00
+[LUA-print] [INFO] # display.contentScaleFactor   = 0.81
+[LUA-print] [INFO] # display.width                = 640.00
+[LUA-print] [INFO] # display.height               = 960.00
+[LUA-print] [INFO] # display.cx                   = 320.00
+[LUA-print] [INFO] # display.cy                   = 480.00
+[LUA-print] [INFO] # display.left                 = 0.00
+[LUA-print] [INFO] # display.right                = 640.00
+[LUA-print] [INFO] # display.top                  = 960.00
+[LUA-print] [INFO] # display.bottom               = 0.00
+[LUA-print] [INFO] # display.c_left               = -320.00
+[LUA-print] [INFO] # display.c_right              = 320.00
+[LUA-print] [INFO] # display.c_top                = 480.00
+[LUA-print] [INFO] # display.c_bottom             = -480.00
+[LUA-print] [INFO] #
+[LUA-print] ----------------------------------------
+[LUA-print] -- run test createHTTPRequest
+[LUA-print] --
+[LUA-print] REQUEST START 1
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 1 - event.name = failed
+[LUA-print] ErrorCode:51
+[LUA-print] ErrowMsg:SSL peer certificate or SSH remote key was not OK
+[LUA-print] ----------------------------------------
+[LUA-print] ----------------------------------------
+[LUA-print] -- run test createHTTPRequestBadDomain
+[LUA-print] --
+[LUA-print] REQUEST START 2
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] ----------------------------------------
+[LUA-print] -- run test send data to server
+[LUA-print] --
+[LUA-print] send data to server
+[LUA-print] REQUEST START 3
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 3 - event.name = completed
+[LUA-print] REQUEST 3 - getResponseStatusCode() = 404
+[LUA-print] ----------------------------------------
+[LUA-print] dump from: [string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:91: in function <[string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:82>
+[LUA-print] - "GET COOKIE FROM SERVER" = {
+[LUA-print] - }
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 2 - event.name = failed
+[LUA-print] ErrorCode:6
+[LUA-print] ErrowMsg:Couldn't resolve host name
+[LUA-print] ----------------------------------------
+[LUA-print] ----------------------------------------
+[LUA-print] -- run test send data to server
+[LUA-print] --
+[LUA-print] send data to server
+[LUA-print] REQUEST START 4
+[LUA-print] ----------------------------------------
+[LUA-print] -- run test send data to server
+[LUA-print] --
+[LUA-print] send data to server
+[LUA-print] REQUEST START 5
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 4 - event.name = completed
+[LUA-print] REQUEST 4 - getResponseStatusCode() = 404
+[LUA-print] ----------------------------------------
+[LUA-print] dump from: [string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:91: in function <[string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:82>
+[LUA-print] - "GET COOKIE FROM SERVER" = {
+[LUA-print] - }
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = progress
+[LUA-print] ----------------------------------------
+[LUA-print] REQUEST 5 - event.name = completed
+[LUA-print] REQUEST 5 - getResponseStatusCode() = 404
+[LUA-print] ----------------------------------------
+[LUA-print] dump from: [string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:91: in function <[string "/Users/u0u0/Documents/TT/Quick-Cocos2dx-Community/quick/samples/tests/src/tests/framework/networkTest.lua"]:82>
+[LUA-print] - "GET COOKIE FROM SERVER" = {
+[LUA-print] - }
